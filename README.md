@@ -1,4 +1,4 @@
-- 👋 Hi, I’m esfahun Tegene Boshe
+- 👋 Hi, I’m Tesfahun Tegene Boshe
 - 👀 I’m interested in data science. 
 - 🌱 I’m currently studying data science at University of Warsaw. 
 - 💞️ I’m looking to collaborate on any interesting data science topic. 
